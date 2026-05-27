@@ -1,0 +1,20 @@
+========================================
+  SISTEMA DE GESTIÓN DE CALIFICACIONES
+========================================
+1. Registrar Calificaciones
+2. Mostrar Reporte Estadístico
+3. Buscar Estudiante
+4. Salir
+Opción: 9
+Opción inválida. Intente nuevamente.
+
+========================================
+  SISTEMA DE GESTIÓN DE CALIFICACIONES
+========================================
+1. Registrar Calificaciones
+2. Mostrar Reporte Estadístico
+3. Buscar Estudiante
+4. Salir
+Opción: 4
+
+Saliendo del sistema. ¡Hasta pronto!

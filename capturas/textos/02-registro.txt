@@ -1,0 +1,17 @@
+========================================
+  SISTEMA DE GESTIÓN DE CALIFICACIONES
+========================================
+1. Registrar Calificaciones
+2. Mostrar Reporte Estadístico
+3. Buscar Estudiante
+4. Salir
+Opción: 1
+
+Cantidad de estudiantes a registrar: 3
+Nombre del estudiante 1: Jose
+Nota de Jose (0 a 10): 9.5
+Nombre del estudiante 2: Maria
+Nota de Maria (0 a 10): 6
+Nombre del estudiante 3: Luis
+Nota de Luis (0 a 10): 8
+Registro completado: 3 estudiantes.

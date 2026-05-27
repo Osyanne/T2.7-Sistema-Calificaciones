@@ -29,7 +29,19 @@ T2.7-Sistema-Calificaciones/
 ├── Cpp/
 │   └── main.cpp
 ├── capturas/
+│   ├── 01-menu-y-validacion.png   ← bucle do-while ante opción inválida
+│   ├── 02-registro.png            ← registro de 3 estudiantes
+│   ├── 03-reporte.png             ← reporte estadístico
+│   ├── 04-busqueda.png            ← búsqueda secuencial (encontrado y no encontrado)
+│   ├── textos/                    ← transcripciones UTF-8 fuente
+│   └── generar-capturas.ps1       ← regenera las PNG si cambia el programa
 └── README.md
+```
+
+Para regenerar las capturas tras cualquier cambio en el código:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File capturas\generar-capturas.ps1
 ```
 
 ---

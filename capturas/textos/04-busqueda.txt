@@ -1,0 +1,26 @@
+========================================
+  SISTEMA DE GESTIÓN DE CALIFICACIONES
+========================================
+1. Registrar Calificaciones
+2. Mostrar Reporte Estadístico
+3. Buscar Estudiante
+4. Salir
+Opción: 3
+
+Nombre del estudiante a buscar: Jose
+
+Estudiante: Jose
+Nota:       9.5
+Estado:     Aprobado
+
+========================================
+  SISTEMA DE GESTIÓN DE CALIFICACIONES
+========================================
+1. Registrar Calificaciones
+2. Mostrar Reporte Estadístico
+3. Buscar Estudiante
+4. Salir
+Opción: 3
+
+Nombre del estudiante a buscar: Pedro
+El estudiante "Pedro" no se encuentra registrado.

@@ -1,0 +1,15 @@
+========================================
+  SISTEMA DE GESTIÓN DE CALIFICACIONES
+========================================
+1. Registrar Calificaciones
+2. Mostrar Reporte Estadístico
+3. Buscar Estudiante
+4. Salir
+Opción: 2
+
+---------- REPORTE ESTADÍSTICO ----------
+Promedio general:  7.83
+Total aprobados:   2
+Total reprobados:  1
+Total estudiantes: 3
+-----------------------------------------
